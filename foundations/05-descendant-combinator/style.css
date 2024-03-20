@@ -1,0 +1,16 @@
+/* This is a combination of a style
+   selector and a class selector */
+/* div .text {
+    background-color: rgb(228, 228, 153);
+    color: rgb(191, 75, 75);
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* This version only utilizes type selectors */
+div p {
+    background-color: rgb(228, 228, 153);
+    color: rgb(191, 75, 75);
+    font-size: 20px;
+    text-align: center;
+}
